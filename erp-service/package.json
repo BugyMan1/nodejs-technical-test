@@ -1,0 +1,21 @@
+{
+  "name": "erp-service",
+  "version": "1.0.0",
+  "description": "ERP Service - Technical test NodeJS for ITGlobers",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "erp",
+    "service",
+    "nodejs",
+    "technical",
+    "test"
+  ],
+  "author": "camilo chavarriaga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
